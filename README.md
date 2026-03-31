@@ -18,7 +18,7 @@
 ---
 
 ### Referencias de proyectos realizados
-- **DEDsafio Muertes:** Eventos de Minecraft para [@iChurrox](https://www.twitch.tv/ichurrox) y [@dedreviil](https://www.twitch.tv/elded)
+- **DEDsafio Muertes:** Evento de Minecraft para [@iChurrox](https://www.twitch.tv/ichurrox) y [@dedreviil](https://www.twitch.tv/elded)
 - **UhcFlowerPower:** Evento de UHC Flower Power para [@iChurrox](https://www.twitch.tv/ichurrox)
 - **Adivina Quien:** Evento de YT para [@ElBudget](https://www.youtube.com/@ElBudget)
 - **Speedrun De Logros:** Evento de Speedrun de Logros para [@iChurrox](https://www.twitch.tv/ichurrox)
