@@ -26,6 +26,7 @@
 
 ---
 
+**Si quires cotizar algun tipo de evento o servidor aqui estan mis metodos de contacto**
 ### Informacion de Contacto
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/749776036346200074)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/cod3koldo)
