@@ -26,13 +26,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codekoldo&show_icons=true&theme=radical&hide_border=true" alt="codekoldo's GitHub stats" />
-</p>
-
----
-
 ### Informacion de Contacto
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/749776036346200074)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/cod3koldo)
