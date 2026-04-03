@@ -4,7 +4,7 @@
 ### INFORMACION DE MI
 -  **Mi Edad:** 18 años
 -  **Pais De Nacimiento:** México
--  **Mi Especialidad:** Programador de Minecraft (Mods fabric, Plugins Spigot/Paper, Launchers Custom de Minecraft, Optimizacion de Servidores)
+-  **Mi Especialidad:** Programador de Minecraft (Mods fabric, Plugins Spigot/Paper, Optimizacion de Servidores)
 -  **Trabajo:** Actualmente no trabajo para un equipo de desarrollo pero si frecuentemente para [@iChurrox](https://www.twitch.tv/ichurrox)
 
 ---
