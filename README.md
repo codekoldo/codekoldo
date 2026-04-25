@@ -5,7 +5,7 @@
 -  **Mi Edad:** 18 años
 -  **Pais De Nacimiento:** México
 -  **Mi Especialidad:** Programador de Minecraft (Mods fabric, Plugins Spigot/Paper, Optimizacion de Servidores)
--  **Trabajo:** Actualmente no trabajo para un equipo de desarrollo pero si frecuentemente para [@iChurrox](https://www.twitch.tv/ichurrox)
+-  **Trabajo:** Actualmente no trabajo para un equipo de desarrollo 
 
 ---
 
@@ -19,7 +19,6 @@
 
 ### Referencias de proyectos realizados
 - **DEDsafio Muertes:** Evento de Minecraft para [@iChurrox](https://www.twitch.tv/ichurrox) y [@dedreviil](https://www.twitch.tv/elded)
-- **UhcFlowerPower:** Evento de UHC Flower Power para [@iChurrox](https://www.twitch.tv/ichurrox)
 - **Adivina Quien:** Evento de YT para [@ElBudget](https://www.youtube.com/@ElBudget)
 - **Speedrun De Logros:** Evento de Speedrun de Logros para [@iChurrox](https://www.twitch.tv/ichurrox)
 - **Survival Custom:** Survival 100% Custom para [@Charliitoss](https://www.twitch.tv/charliitoss)
@@ -30,4 +29,3 @@
 ### Informacion de Contacto
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/749776036346200074)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/cod3koldo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cod3koldoyt@gmail.com)
