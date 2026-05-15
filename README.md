@@ -18,10 +18,10 @@
 ---
 
 ### Referencias de proyectos realizados
-- **DEDsafio Muertes:** Evento de Minecraft para [@iChurrox](https://www.twitch.tv/ichurrox) y [@dedreviil](https://www.twitch.tv/elded)
-- **Adivina Quien:** Evento de YT para [@ElBudget](https://www.youtube.com/@ElBudget)
-- **Speedrun De Logros:** Evento de Speedrun de Logros para [@iChurrox](https://www.twitch.tv/ichurrox)
-- **Survival Custom:** Survival 100% Custom para [@Charliitoss](https://www.twitch.tv/charliitoss)
+- **DEDsafio Muertes** [@iChurrox](https://www.twitch.tv/ichurrox) y [@dedreviil](https://www.twitch.tv/elded)
+- **Adivina Quien** [@ElBudget](https://www.youtube.com/@ElBudget)
+- **Speedrun De Logros** [@iChurrox](https://www.twitch.tv/ichurrox)
+- **Survival Custom** [@Charliitoss](https://www.twitch.tv/charliitoss)
 
 ---
 
