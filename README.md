@@ -18,7 +18,6 @@
 ---
 
 ### Referencias de proyectos realizados
-- **DEDsafio Muertes** [@iChurrox](https://www.twitch.tv/ichurrox) y [@dedreviil](https://www.twitch.tv/elded)
 - **Adivina Quien** [@ElBudget](https://www.youtube.com/@ElBudget)
 - **Speedrun De Logros** [@iChurrox](https://www.twitch.tv/ichurrox)
 - **Survival Custom** [@Charliitoss](https://www.twitch.tv/charliitoss)
