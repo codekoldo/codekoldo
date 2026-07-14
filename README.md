@@ -1,7 +1,6 @@
 
 # Hola Soy cod3koldo 
 
-### INFORMACION DE MI
 -  **Mi Edad:** 18 años
 -  **Pais De Nacimiento:** México
 -  **Mi Especialidad:** Programador de Minecraft (Plugins Paper y Optimizacion de Servidores)
