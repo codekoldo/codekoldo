@@ -3,7 +3,7 @@
 
 -  **Mi Edad:** 18 años
 -  **Pais De Nacimiento:** México
--  **Mi Especialidad:** Programador de Minecraft (Plugins Paper y Optimizacion de Servidores)
+-  **Mi Especialidad:** Minecraft Plugins Programmer
 -  **Trabajo:** Actualmente no trabajo para un equipo de desarrollo 
 
 ---
