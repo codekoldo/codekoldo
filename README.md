@@ -4,7 +4,7 @@
 -  **Mi Edad:** 18 años
 -  **Pais De Nacimiento:** México
 -  **Mi Especialidad:** Minecraft Plugins Programmer
--  **Trabajo:** Actualmente trabajo para [@ShalyxProjects](https://x.com/ShalyxProjects)
+-  **Trabajo:** Actualmente trabajo para [@Bola8Studios](https://x.com/Bola8Studios)
 
 ---
 
