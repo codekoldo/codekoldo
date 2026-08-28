@@ -9,7 +9,7 @@
     💼 Trabajo para @Bola8Studios e Independiente
     💻 Minecraft plugin Programmer
     🎮 Music • Games • Anime • Programing
-<br>
+    
 **Adivina Quién** [@ElBudget](https://www.youtube.com/@ElBudget)
 **Speedrun De Logros** [@iChurrox](https://www.twitch.tv/ichurrox)
 **Survival Custom** [@Charliitoss](https://www.twitch.tv/charliitoss)
