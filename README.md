@@ -13,6 +13,7 @@
 **Adivina Quién** [@ElBudget](https://www.youtube.com/@ElBudget)
 **Speedrun De Logros** [@iChurrox](https://www.twitch.tv/ichurrox)
 **Survival Custom** [@Charliitoss](https://www.twitch.tv/charliitoss)
+**Survival Custom** [@CursedFiber78](https://www.twitch.tv/CursedFiber78)
 </pre>
 
 <div align="center">
