@@ -1,29 +1,39 @@
+<div align="center">
 
-# Hola Soy cod3koldo 
+# Cod3koldo 👋
 
--  **Mi Edad:** 18 años
--  **Pais De Nacimiento:** México
--  **Mi Especialidad:** Minecraft Plugins Programmer
--  **Trabajo:** Actualmente trabajo para [@Bola8Studios](https://x.com/Bola8Studios)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=500&lines=Minecraft+Plugin+Programmer;18+a%C3%B1os+%7C+Mexicano+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
+</div>
+<pre>
+    💼 Trabajo para @Bola8Studios e Independiente
+    💻 Minecraft plugin Programmer
+    🎮 Music • Games • Anime • Programing
 
----
+        **Mis proyectos**
+ **Adivina Quién** [@ElBudget](https://www.youtube.com/@ElBudget)
+ **Speedrun De Logros** [@iChurrox](https://www.twitch.tv/ichurrox)
+ **Survival Custom** [@Charliitoss](https://www.twitch.tv/charliitoss)
 
-###  Herramientas de desarrollo
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minecraft-%23000000.svg?style=for-the-badge&logo=minecraft&logoColor=white" />
-</p>
+</pre>
 
----
+<div align="center">
 
-### Referencias de proyectos realizados
-- **Adivina Quien** [@ElBudget](https://www.youtube.com/@ElBudget)
-- **Speedrun De Logros** [@iChurrox](https://www.twitch.tv/ichurrox)
-- **Survival Custom** [@Charliitoss](https://www.twitch.tv/charliitoss)
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Minecraft-%23000000.svg?style=for-the-badge&logo=minecraft&logoColor=white" />
 
----
+</div>
 
-**Si quires cotizar algun tipo de evento o servidor aqui estan mis metodos de contacto**
-### Informacion de Contacto
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/749776036346200074)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/cod3koldo)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=cod3koldo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cod3koldo&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codekoldo&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cod3koldo&theme=tokyo-night&hide_border=true" width="90%" />
+
+</div>
