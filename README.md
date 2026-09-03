@@ -23,6 +23,6 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codekoldo&theme=tokyonight&hide_border=true" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Codekoldo&theme=darcula&hide_border=true&locale=es" alt="GitHub Streak" /></a>
 
 </div>
